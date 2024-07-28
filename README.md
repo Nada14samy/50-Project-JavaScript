@@ -10,10 +10,18 @@
     <th>Name</th>
   </tr>
   <tr>
-    <td>to do list</td>
+    <td>
+      <a href="https://github.com/Nada14samy/50-Project-JavaScript/tree/main/Expanding%20Cards" target="_blank">
+         Expanding Cards
+      </a>
+    </td>
   </tr>
   <tr>
-    <td>Expanding Cards</td>
+    <td>
+       <a href="https://github.com/Nada14samy/50-Project-JavaScript/tree/main/to%20do%20list" target="_blank">
+      To Do List
+      </a>
+    </td>
   </tr>
 </table>
 
